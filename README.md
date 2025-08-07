@@ -63,7 +63,7 @@ structure:
 2. Run the CLI in your project directory:
 
 ```bash
-scaffold
+npx scaffold
 ```
 
 3. Boom. Folder structure created. You’re a wizard now. 🧙
