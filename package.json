@@ -1,0 +1,26 @@
+{
+  "name": "the-scaffold-project",
+  "version": "1.0.0",
+  "description": "CLI tool to scaffold a project structure from a YAML file",
+  "main": "index.js",
+  "bin": {
+    "scaffold": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cinfinit/the-scaffold-project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cinfinit/the-scaffold-project/issues"
+  },
+  "homepage": "https://github.com/cinfinit/the-scaffold-project#readme",
+  "keywords": [   "cli",   "scaffold",   "project-setup",   "project-scaffolding",   "folder-structure",   "directory-structure",   "yaml",   "project-generator",   "boilerplate",   "starter-kit",   "template",   "automation",   "codegen",   "structure-generator",   "node-cli",   "dev-tool",   "developer-tools",   "project-template",   "project-creator",   "scaffold-cli" ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yaml": "^2.8.0"
+  }
+}

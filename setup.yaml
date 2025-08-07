@@ -1,0 +1,11 @@
+project_name: my_cli_project
+structure:
+  src:
+    - main.js: |
+        console.log("Hello from main.js");
+    - utils.js
+  test:
+    - test_main.js
+  README.md: |
+    # CLI Project
+    Auto-generated structure.
