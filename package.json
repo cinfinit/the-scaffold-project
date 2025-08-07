@@ -1,6 +1,6 @@
 {
   "name": "the-scaffold-project",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "CLI tool to scaffold a project structure from a YAML file",
   "main": "index.js",
   "bin": {
