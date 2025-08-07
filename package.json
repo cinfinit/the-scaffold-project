@@ -4,7 +4,7 @@
   "description": "CLI tool to scaffold a project structure from a YAML file",
   "main": "index.js",
   "bin": {
-    "scaffold": "./index.js"
+    "scaffold": "index.js"
   },
   "repository": {
     "type": "git",
